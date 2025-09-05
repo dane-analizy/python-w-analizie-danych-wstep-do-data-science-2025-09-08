@@ -1,4 +1,4 @@
-# Szkolenie "Podstawy Pythona"
+# Szkolenie "Python w analizie danych. Wstęp do Data Science"
 
 Repozytorium zawiera materiały ze szkolenia [Python w analizie danych. Wstęp do Data Science](https://www.comarch.pl/szkolenia/analiza-danych-biznesowych/python/python-w-analizie-danych-wstep-do-data-science/) (2025-09-08 - 2025-09-09)
 
